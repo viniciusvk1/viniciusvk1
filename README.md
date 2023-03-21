@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvk1&show_icons=true&theme=transparent)
+![Vinicius Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvk1&show_icons=true&theme=transparent)
 
 
 ### technologies I'm using:
