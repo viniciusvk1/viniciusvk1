@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![viniciusvk1's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvk1&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 ### technologies I'm using:
 <div style = "display: inline_block"><br/>
