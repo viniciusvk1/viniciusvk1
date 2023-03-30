@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Vinicius Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvk1&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvk1&layout=compact)](https://github.com/viniciusvk1/github-readme-stats)
 
 ### technologies I'm using:
 <div style = "display: inline_block"><br/>
