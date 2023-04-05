@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### ⚙️ My github info
-[![GitHub Streak](https://streak-stats.demolab.com?user=viniciusvk1&theme=transparent)](https://git.io/streak-stats)
+
 ![Vinicius Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvk1&show_icons=true&theme=transparent)
 
 ## 🛠 Technologies I'm using:
