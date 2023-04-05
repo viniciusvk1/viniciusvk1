@@ -2,8 +2,6 @@
 
 ### ⚙️ My github info
 
-![Vinicius Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvk1&show_icons=true&theme=transparent)
-
 ## 🛠 Technologies I'm using:
 <div style = "display: inline_block"><br/>
   <img align="center" alt = "Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
