@@ -2,6 +2,7 @@
 
 ### ⚙️ My github info
 ![Vinicius Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvk1&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=viniciusvk1&theme=transparent)](https://git.io/streak-stats)
 
 ## 🛠 Technologies I'm using:
 <div style = "display: inline_block"><br/>
